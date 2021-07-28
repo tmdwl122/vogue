@@ -1,3 +1,3 @@
 # vogue
 
-tmdwl122.github.io/vogue/
+https://tmdwl122.github.io/vogue/
